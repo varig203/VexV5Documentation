@@ -1,0 +1,18 @@
+NOTICE
+
+This documentation project is a combined work that incorporates material from multiple sources.
+
+The following components are included:
+
+1. Materials licensed under the Mozilla Public License Version 2.0 (MPL 2.0):
+   - Copyright © 2025 robotics is ez
+   - Copyright © 2011–2023 Purdue ACM SIGBots
+   These files are governed by the MPL 2.0. Please see the file “MPL-2.0” for the full license text.
+
+2. Materials licensed under the MIT License:
+   - Copyright © 2024, Liam Teale
+   - Copyright © 2025, Thurston A Yates
+   These files are governed by the MIT License. Please see the file “MIT” for the full license text.
+
+Any modifications or redistributions must preserve the above copyright notices
+and the full license texts provided in the respective license files.
