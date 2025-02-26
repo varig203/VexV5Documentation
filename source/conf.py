@@ -15,6 +15,7 @@ release = '2025'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
+    'breathe',
     'myst_parser',    # Enable Markdown support
     #'ablog',          # Enable blog post feature
     'sphinx_tabs.tabs', # Enable code tabs
@@ -24,6 +25,12 @@ extensions = [
 templates_path = ['_templates']
 exclude_patterns = []
 
+breathe_projects = {
+    "LemLibAPI": "./lemlib/api/doxygen/xml",  # LemLib Doxygen XML output folder
+    "RobodashAPI": "./robodash/api/doxygen/xml",  # Robodash Doxygen XML output folder
+}
+
+breathe_default_project = "LemLibAPI"  # Set the default project (you can switch this as needed)
 
 
 # -- Options for HTML output -------------------------------------------------
