@@ -2,7 +2,7 @@
 Documentation is for running when WiFi is unavaliable and we have a local backup of all docs on a LAN web server
 
 # Project structure
-Since I have to work with multiple tools I seperate /docs for Docusaurus
+Since I work with multiple libs I seperated them into their respective and copy and pasted their contents into the project.
 
 # License Information:
 This documentation project incorporates material under different licenses:
