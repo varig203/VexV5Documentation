@@ -1,0 +1,50 @@
+=================================================================
+Section I: Mozilla Public License Version 2.0 (MPL 2.0)
+=================================================================
+
+This work (or the parts thereof that are licensed under the MPL 2.0) is
+licensed under the Mozilla Public License Version 2.0. You may obtain a
+copy of the License at:
+
+      https://mozilla.org/MPL/2.0/
+
+The MPL 2.0 applies to the following components of this project:
+    • Files originally contributed by “robotics is ez” (© 2025)
+    • Files originally contributed by “Purdue ACM SIGBots” (© 2011–2023)
+
+=================================================================
+Section II: MIT License
+=================================================================
+
+The parts of this project contributed by Liam Teale (© 2024) and Thurston A Yates (© 2025)
+are licensed under the MIT License. The full text of the MIT License is as follows:
+
+-----------------------------------------------------------------
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is furnished
+to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-----------------------------------------------------------------
+
+=================================================================
+
+Additional Information:
+- New contributions you make to this project that are not part of the imported materials may be licensed under your chosen license, but the original portions remain governed by their respective licenses (MPL 2.0 or MIT).
+- For clarity, please refer also to the NOTICE file which lists each component and its associated license.
+
+=================================================================
